@@ -1,3 +1,5 @@
+STATIC WEBSITE HOSTING ON S3
+
 Hello Guys, 
 In this project, I have hosted a static website on S3
 First, we need to create an architecture, and then we should start implementing resources based on requirements.
@@ -68,4 +70,5 @@ Commit and push:
 git add .
 git commit -m "Initial commit - serverless web app"
 git push origin main
+
 
