@@ -1,6 +1,3 @@
-First of create an architecture that we need to follow during the project to implement resources.
-Let's get started
-
 1. Frontend
 
 index.html → Main HTML page.
